@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name              海角社区
-// @homepage          http://wlzg.ltd/#/pages/my/exchange/nodes/nodes?id=1
+// @homepage          http://jsxl.pro
 // @version           1.6.1
 // @updateDesc        修复帖子付费音频及音频帖子标题提示&logo脚本列表可复制最新脚本链接
 // @description       🔥免费看付费视频，查看封禁账号主页帖子，复制播放链接(卡顿可以去迅雷播放)，帖子是否有视频图片提示(标题前缀)，持久化登录状态，破解vip播放路线，自动展开帖子，去广告，vip标识
@@ -581,7 +581,7 @@ const superVip = (function () {
 		 vipBoxId: 'wt-vip-jx-box' + Math.ceil(Math.random() * 100000000),
 		 endName: 'anM=',
 		 initFailMsg: '抱歉，初始化失败，请尝试刷新页面或检查版本是否是最新版本，点击控制条喇叭查看当前版本号',
-		 homePage: 'http://wlzg.ltd/#/pages/my/exchange/nodes/nodes',
+		 homePage: 'http://jsxl.pro',
 		 scripts: [
 		// 	{
 		// 	icon: 'https://mp-af307268-1b8a-482a-b75a-b6e98b125742.cdn.bspapp.com/system/logo/watermark_logo.png',
