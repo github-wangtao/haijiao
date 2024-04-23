@@ -4,8 +4,11 @@ https://cdn.jsxl.pro/js/release/haijiao.user.js
 # 脚本获取网址
 https://jsxl.pro
 # 海角地址: 
-hjd7b9.top     
-haijiao.com     
+hjedd.top（盗版）
+hjy6.top（盗版）
+hjd7b9.top（正版） 
+hjca9.com（正版）
+haijiao.com（正版）     
 可能需要开启梯子访问
 
 # 介绍
