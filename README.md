@@ -1,7 +1,7 @@
 # haijiao.com 海角社区油猴脚本
-# 脚本最新更新地址: 
+# 最新脚本链接: 
 https://cdn.jsxl.pro/js/release/haijiao.user.js
-# 脚本更新网址
+# 脚本获取网址
 https://jsxl.pro
 # 海角地址: 
 hjd7b9.top     
