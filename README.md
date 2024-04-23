@@ -6,7 +6,7 @@ https://jsxl.pro
 # 海角地址: 
 <p>hjedd.top（盗版）</p>
 <p>hjy6.top（盗版）</p>
-<p>hjd7b9.top（正版</p>） 
+<p>hjd7b9.top（正版)</p> 
 <p>hjca9.com（正版）</p>
 <p>haijiao.com（正版）</p>     
 <p>可能需要开启梯子访问</p>
