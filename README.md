@@ -4,12 +4,12 @@ https://cdn.jsxl.pro/js/release/haijiao.user.js
 # 脚本获取网址
 https://jsxl.pro
 # 海角地址: 
-hjedd.top（盗版）
-hjy6.top（盗版）
-hjd7b9.top（正版） 
-hjca9.com（正版）
-haijiao.com（正版）     
-可能需要开启梯子访问
+<p>hjedd.top（盗版）</p>
+<p>hjy6.top（盗版）</p>
+<p>hjd7b9.top（正版</p>） 
+<p>hjca9.com（正版）</p>
+<p>haijiao.com（正版）</p>     
+<p>可能需要开启梯子访问</p>
 
 # 介绍
 🔥海角社区脚本，免费看付费视频，查看封禁账号主页帖子，复制播放链接(卡顿可以去迅雷播放)，帖子是否有视频图片提示(标题前缀)，持久化登录状态，破解vip播放路线，自动展开帖子，去广告，vip标识
