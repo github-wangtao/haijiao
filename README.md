@@ -1,4 +1,4 @@
-# haijiao.com 海角社区油猴脚本
+# haijiao.com 海角社区油猴脚本(支持安卓苹果手机及电脑)
 # 最新脚本链接: 
 https://cdn.jsxl.pro/js/release/haijiao.user.js
 # 脚本获取网址
